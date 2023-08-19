@@ -1,0 +1,5 @@
+#
+#
+
+TIME_LIMIT = 1000
+SOFT_TIME_LIMIT = 500
